@@ -14,9 +14,15 @@ header{
 }
 
 section{
+    background: white;
     padding: 20px;
     display: flex;
     justify-content: space-around;
+    padding: 15px;
+    width: 500px;
+    margin: 0 auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
+    border-radius: 10px;
 }
 
 footer{
@@ -27,4 +33,5 @@ footer{
     position: fixed;
     bottom: 0;
     width: 100%;
+    font: italic small-caps bold 12px/30px Georgia, serif;
 }
