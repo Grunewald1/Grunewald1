@@ -1,6 +1,7 @@
 {
     "configurations": [
         
+        
         {
             "name": "Attach to Chrome",
             "port": 9222,
@@ -37,7 +38,7 @@
             }
         },
         {
-            "type": "pwa-msedge",
+            "type": "web app",
             "name": "Launch Microsoft Edge in headless mode",
             "request": "launch",
             "runtimeArgs": [
